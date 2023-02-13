@@ -8,3 +8,16 @@ https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set
 Useful links to reference 
 
 https://www.kaggle.com/code/muniryadi/gas-turbine-emission-prediction
+
+
+Requirements: 
+1. Download the dataset from the above website. Present a general description of the dataset and present the general properties of the dataset.
+
+2. You are required to implement at least two (more will be better) prediction methods for this prediction task. You shall follow that relevant paper to partition the data, that is, “split the dataset into train (data from 2011-2012), validation (year 2013 data), and test sets (data from 2014 and 2015).” 
+Also, you need to tune the hyperparameters of your prediction model in a principled way.  
+
+3. Discuss any data preprocessing which have been applied. 
+
+4. Provide the performance measures of your prediction results. Also, compare your performance with those obtained in that relevant paper and discuss the potential causes of the discrepancy.  
+
+5. Conduct the analysis of attribute importance and attribute selection. Discuss your selection methods and results by comparing with those in that relevant paper.  
