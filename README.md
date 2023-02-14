@@ -4,8 +4,11 @@
 Link to dataset
 https://archive.ics.uci.edu/ml/datasets/Gas+Turbine+CO+and+NOx+Emission+Data+Set
 
-Link to shared slides
+Link to shared Docs
 https://docs.google.com/document/d/1n_a-b2GYDxjKIksjFLTV0QgGjO1HtkmdK8TmWDbjKzI/edit
+
+Link to shared slides
+https://docs.google.com/presentation/d/1aomywSCVHdqTg8MKLLzYhpIGoUiv6du2iHYL-KUag7k/edit#slide=id.g2083c5bee29_1_38
 
 
 Useful links to reference 
