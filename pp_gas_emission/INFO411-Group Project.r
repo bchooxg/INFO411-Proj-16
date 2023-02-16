@@ -9,6 +9,7 @@ library(rgeos)
 library(MASS)
 library(Hmisc)
 library(caret)
+library(corrplot)
 
 ## setwd("C:/Users/meiya/Desktop/Degree/Year 2 Quarter 3/INFO411 - Data Mining and Knowledge Discovery/Group Project/pp_gas_emission")
 
